@@ -1,0 +1,46 @@
+{
+    "WebBookmarks": 
+        [
+            {
+                "Name":"Google",
+                "Description":"",
+                "Target":"Chrome",
+                "TargetLink": "https://www.google.com/"
+            },
+
+            {
+                "Name":"Facebook",
+                "Description":"",
+                "Target":"Chrome",
+                "TargetLink": "https://www.facebook.com/"
+            } 
+        ],
+    "ShareBookmarks":
+        [
+            {
+                "Name":"AppData",
+                "Description":"",
+                "Target":"FileExplorer",
+                "TargetLink": "C:\\Users\\jgbon\\AppData\\Roaming"
+            }  
+        ],
+
+    "PowershellBookmarks":
+        [
+            {
+                "Name":"SDTool",
+                "Description":"",
+                "Target":"Powershell",
+                "TargetLink": "C:\\Users\\jgbon\\Desktop\\Master Template\\Main.ps1"
+            }
+        ],
+    "RDPBookmarks":
+        [
+            {
+                "Name":"SDTool",
+                "Description":"",
+                "Target":"RDP",
+                "TargetLink": ""
+            }
+        ]
+}
